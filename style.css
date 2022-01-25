@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./img/hacker-scaled.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.main {
+  margin-top: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+  color: white;
+
+}
+
+.box {
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  background-color: #212222c2;
+  border-radius: 0.5em;
+  width: 30vw;
+  height: auto;
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: #191970;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 100%;
+  height: 50px;
+}
+
+.text{
+  color: rgb(0, 0, 0);
+}
+
+.typewriter{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+footer{
+  margin-top: 200px;
+  height: 130px;
+  background: #191970;
+}
+
+footer p{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  color: aliceblue;
+  font-size: 16px;
+}
+
+footer a i{
+
+  margin-top: 1%;
+  margin-left: 50%;
+  color: white;
+}
