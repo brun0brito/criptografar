@@ -1,6 +1,6 @@
 # Projeto Challenger da Alura
 
-### Criptografar e Descriptofrar textos
+### Criptografar e Descriptografar textos
 
 projeto realizado para criptografar e descriptografar textos.
 tecnologias utlizadas:
